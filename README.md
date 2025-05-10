@@ -1,4 +1,6 @@
-# University of Brasília
+# Design and Validation of an ABS and TCS Control Strategy Applied in an Automotive Simulator Using Model-Based Design Methodology
+
+#* University of Brasília
 
 ## Authors: Igor Souza, Lucas Torres, André Murilo and Rafael Rodrigues
 
